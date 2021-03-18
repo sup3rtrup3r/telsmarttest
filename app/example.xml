@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+	<phone-settings>
+	<customer="Customer"></customer>
+	<description="My Test Phone"></description>
+	<mac="92:c6:03:09:d0:57"></mac>
+		<dss>
+			<value.{key}="200"></value>
+			<label.{key}="Pizza Hut"></label>
+			<type.{key}="BLF"></type>
+
+			<value.{key}="201"></value>
+			<label.{key}="Subway"></label>
+			<type.{key}="BLF"></type>
+
+			<value.{key}="+38512345678"></value>
+			<label.{key}="Burger King"></label>
+			<type.{key}="SPD"></type>
+		</dss>
+	</phone-settings>
+</settings>
